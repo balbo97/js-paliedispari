@@ -15,7 +15,7 @@ Consigli del giorno
 2. Scriviamo sempre solo un pezzetto di codice alla volta, se funziona allora andiamo avanti.
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
 
-<!-- PALIDROMA  -->
+<!-- PALINDROMA  -->
 1- chiedere all'utente di inserire una parola 
 2- creare una funzione per capire se la parola è palindroma 
 
