@@ -15,7 +15,17 @@ Consigli del giorno
 2. Scriviamo sempre solo un pezzetto di codice alla volta, se funziona allora andiamo avanti.
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
 
+<!-- PALIDROMA  -->
+1- chiedere all'utente di inserire una parola 
+2- creare una funzione per capire se la parola è palindroma 
 
+<!-- PARI E DISPARI  -->
+1- chiedere all'utente di inserire pari o dispari 
+2- chiedere all'utente di inserire un numero da 1 a 5 
+3- genero per il computer un numero random da 1 a 5 
+4- sommiamo i due numeri 
+5- stabiliamo se la somma dei due numeri è pari o dispari 
+6- dichiariamo chi a vinto 
 
 
 
